@@ -5,11 +5,6 @@
 ## AIM
 To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
 
-
-## ENTITY RELATIONSHIP DIAGRAM
-
-
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -47,6 +42,7 @@ admin.site.register(amazon_DB,amazon_DBAdmin)
 # OUTPUT
 
 ![alt text](<paarkavi/Screenshot 2025-11-27 115230.png>)
+
 
 ![alt text](<paarkavi/Screenshot 2025-11-27 115625.png>)
 
